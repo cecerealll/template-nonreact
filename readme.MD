@@ -1,0 +1,1 @@
+Work with script.js not main.js
